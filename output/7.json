@@ -1,0 +1,48 @@
+{
+    "name": "Synesthesia #7",
+    "symbol": "",
+    "description": "Piece #7 in the Synesthesia collection",
+    "seller_fee_basis_points": 250,
+    "image": "7.png",
+    "attributes": [
+        {
+            "trait_type": "Source Song",
+            "value": "Ziggurats"
+        },
+        {
+            "trait_type": "Source Artist",
+            "value": "Mike Shinoda"
+        },
+        {
+            "trait_type": "Dot Scaling Factor",
+            "value": "100"
+        },
+        {
+            "trait_type": "Palette",
+            "value": "Indigo/Amber"
+        },
+        {
+            "trait_type": "Shape",
+            "value": "Square"
+        },
+        {
+            "trait_type": "Density",
+            "value": "7500"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "7.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image/png",
+        "creators": [
+            {
+                "address": "8ejegyXpDAgDvQ8poRnK21CHkJGBrsLxfxNMSFCoNiuA",
+                "share": 100
+            }
+        ]
+    }
+}

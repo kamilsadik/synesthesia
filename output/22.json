@@ -1,0 +1,48 @@
+{
+    "name": "Synesthesia #22",
+    "symbol": "",
+    "description": "Piece #22 in the Synesthesia collection",
+    "seller_fee_basis_points": 250,
+    "image": "22.png",
+    "attributes": [
+        {
+            "trait_type": "Source Song",
+            "value": "Ziggurats"
+        },
+        {
+            "trait_type": "Source Artist",
+            "value": "Mike Shinoda"
+        },
+        {
+            "trait_type": "Dot Scaling Factor",
+            "value": "100"
+        },
+        {
+            "trait_type": "Palette",
+            "value": "Winter"
+        },
+        {
+            "trait_type": "Shape",
+            "value": "Square"
+        },
+        {
+            "trait_type": "Density",
+            "value": "7500"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "22.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image/png",
+        "creators": [
+            {
+                "address": "8ejegyXpDAgDvQ8poRnK21CHkJGBrsLxfxNMSFCoNiuA",
+                "share": 100
+            }
+        ]
+    }
+}

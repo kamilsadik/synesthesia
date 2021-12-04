@@ -1,0 +1,48 @@
+{
+    "name": "Synesthesia #26",
+    "symbol": "",
+    "description": "Piece #26 in the Synesthesia collection",
+    "seller_fee_basis_points": 250,
+    "image": "26.png",
+    "attributes": [
+        {
+            "trait_type": "Source Song",
+            "value": "Ziggurats"
+        },
+        {
+            "trait_type": "Source Artist",
+            "value": "Mike Shinoda"
+        },
+        {
+            "trait_type": "Dot Scaling Factor",
+            "value": "100"
+        },
+        {
+            "trait_type": "Palette",
+            "value": "SageGreen"
+        },
+        {
+            "trait_type": "Shape",
+            "value": "Mixed"
+        },
+        {
+            "trait_type": "Density",
+            "value": "7500"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "26.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image/png",
+        "creators": [
+            {
+                "address": "8ejegyXpDAgDvQ8poRnK21CHkJGBrsLxfxNMSFCoNiuA",
+                "share": 100
+            }
+        ]
+    }
+}

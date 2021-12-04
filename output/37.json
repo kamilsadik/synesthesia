@@ -1,0 +1,48 @@
+{
+    "name": "Synesthesia #37",
+    "symbol": "",
+    "description": "Piece #37 in the Synesthesia collection",
+    "seller_fee_basis_points": 250,
+    "image": "37.png",
+    "attributes": [
+        {
+            "trait_type": "Source Song",
+            "value": "Ziggurats"
+        },
+        {
+            "trait_type": "Source Artist",
+            "value": "Mike Shinoda"
+        },
+        {
+            "trait_type": "Dot Scaling Factor",
+            "value": "100"
+        },
+        {
+            "trait_type": "Palette",
+            "value": "LP"
+        },
+        {
+            "trait_type": "Shape",
+            "value": "Square"
+        },
+        {
+            "trait_type": "Density",
+            "value": "7500"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "37.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image/png",
+        "creators": [
+            {
+                "address": "8ejegyXpDAgDvQ8poRnK21CHkJGBrsLxfxNMSFCoNiuA",
+                "share": 100
+            }
+        ]
+    }
+}
